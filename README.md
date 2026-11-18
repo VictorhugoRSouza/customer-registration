@@ -1,4 +1,4 @@
-# Customer Management System
+# Cadastro de Clientes
 
 Sistema de gerenciamento de clientes desenvolvido em Java, com o objetivo de praticar conceitos fundamentais da linguagem e de Programação Orientada a Objetos.
 
